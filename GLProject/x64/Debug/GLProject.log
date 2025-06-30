@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\tester\source\repos\ECMiraldo\GLProject\GLProject\LoadShaders.h(36,1): warning C4005: '_DEBUG': macro redefinition
+C:\Users\tester\source\repos\ECMiraldo\GLProject\GLProject\main.cpp : message : see previous definition of '_DEBUG'
+  GLProject.vcxproj -> C:\Users\tester\Source\Repos\ECMiraldo\GLProject\x64\Debug\GLProject.exe
